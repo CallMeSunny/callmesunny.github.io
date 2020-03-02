@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # SEO相关信息
-title: TMaize Blog
-description: TMaize的个人博客
-keywords: TMaize,Blog,Java,Html,JavaScript
-author: TMaize
+title: Sunny's Blog
+description: Sunny的个人博客
+keywords: Sunny,Blog,C/C++,Python,Java,matlab,Html,JavaScript
+author: Sunny
 footerText: 'Copyright © 2016 皖ICP备16016174号'
 
 # 这些不要动
@@ -24,17 +24,17 @@ tucaoUrl: https://support.qq.com/product/86335
 
 # 菜单
 menu:
-  - title: 首页
+  - title: Index
     url: /
-  - title: 归类
+  - title: Class
     url: /pages/categories.html
-  - title: 搜索
+  - title: Search
     url: /pages/search.html
-  - title: 友链
+  - title: Links
     url: /pages/links.html
-  - title: 留言
+  - title: Massage
     url: /pages/chat.html
-  - title: 关于
+  - title: About me
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false
