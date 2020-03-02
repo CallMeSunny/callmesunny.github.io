@@ -26,14 +26,12 @@ tucaoUrl: https://support.qq.com/product/86335
 menu:
   - title: Index
     url: /
-  - title: Class
+  - title: Categories
     url: /pages/categories.html
   - title: Search
     url: /pages/search.html
   - title: Links
     url: /pages/links.html
-  - title: Massage
-    url: /pages/chat.html
   - title: About me
     url: /pages/about.html
 

@@ -1,14 +1,33 @@
 ---
 layout: mypost
-title: 关于我
+title: About me
 ---
 
-> Hello 陌生人，欢迎访问 Sunny's Blog
+> Hello my friends，welcome to Sunny's Blog
 
-该博客托管于 GitHub Page，国内默认解析到aliyun
-感谢tmaze-blog写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，欢迎 Star&Fork。另喜欢本博客的欢迎**添加友链**，在[留言板](chat.html)留言即可
+This blog is based on Github Page,and thanks for tmaze-blog [tmaize-blog](https://github.com/TMaize/tmaize-blog)
 
-## 相关技能与个人优势
+## My skills and profile
+
+- Use C/C++ to back-end development for 3 years, using OpenCV lib for engineering development.
+
+- 2 years experience in data mining project, understand basic machine learning algorithm, using tensorflow deep learning framework.
+
+- Understand simple Computer Vision algorithms, using opencv Library.
+
+- Familiar with C/C++ cross-compiliation (Windows / Linux) with Cmake tool.
+
+- Familiar with Linux development environment, and understand shell script and server construction.
+
+- Proficient in Python, C++, Java and other back-end languages, and understand the development of JS + HTML + java + SQL, Java Web.
+
+- Understand socket programming.
+
+- Familiar with MATLAB language and modeling
+
+- Proficient in using MySQL in database
+
+- Ability to use git/SVN to control code version
 
 - 3年C/C++开发经历，熟练使用C++进行后台开发，并使用OpenCV进行工程开发
 
@@ -30,10 +49,10 @@ title: 关于我
 
 - 能够使用 Git/SVN 对代码版本进行控制
 
-## 联系我
+## Contact me
 
 - QQ : 2822548649
 
-- Email : [17853262130@163.com](mail.163.com)
+- Email : 17853262130@163.com
 
 - GitHub : [https://github.com/CallMeSunny/](https://github.com/CallMeSunny/)
